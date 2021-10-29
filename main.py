@@ -1,6 +1,6 @@
 # Minesweeper1
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-# test
+# test 2
         
 import re
 from random import randint
