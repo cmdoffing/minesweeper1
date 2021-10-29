@@ -1,3 +1,4 @@
+# Minesweeper1
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 import re
