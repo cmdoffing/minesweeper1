@@ -1,6 +1,6 @@
 # Minesweeper1
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-# test 2
+# test 3
         
 import re
 from random import randint
@@ -16,7 +16,7 @@ def initGrid():
         curRow = grid[row]
         initRow(curRow)
     setMines()
-    
+
 
 def initRow(curRow):
     for i in range(numCols):
